@@ -1,0 +1,19 @@
+{
+    "name": "dsw/t3",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dsw\\T3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrés Crespo",
+            "email": "acrespor75@gmail.com"
+        }
+    ],
+    "require": {}
+}
